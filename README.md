@@ -1,3 +1,5 @@
+# Housing
+A simple Angular project
 # Angular Homes App
 - Install Angular if you don't have it installed
 
